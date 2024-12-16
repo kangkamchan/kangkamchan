@@ -1,6 +1,6 @@
 # Backend Developer Kang Kamchan 
 ## 안녕하세요 백엔드 개발자 강감찬입니다.
->[포트폴리오](https://github.com/GyeongMin2/Portfolio)
+>[포트폴리오](https://github.com/kangkamchan/Portfolio)
 
 ## 연락처
  - 📧 topthanks@naver.com
