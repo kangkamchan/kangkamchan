@@ -1,5 +1,8 @@
 # Backend Developer Kang Kamchan 
 ## 안녕하세요 백엔드 개발자 강감찬입니다.
+- 반복된 코드를 최대한 피하려 노력합니다. 모듈화, AOP 에 관심이 있습니다.
+- 변수, 함수명칭을 의미있고 직관적으로 짓기 위해 고민합니다.
+- 어려운 과제에 도전하고 성장하는 것에 흥미를 느낍니다.
 >[포트폴리오](https://github.com/kangkamchan/Portfolio)
 
 ## 연락처
