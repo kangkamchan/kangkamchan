@@ -8,11 +8,12 @@
 ## 연락처
  - 📧 topthanks@naver.com
  - 💻 [GitHub](https://github.com/Kangkamchan)
-
+   
 ## 기술 스택
-- **Languages & Frameworks**: Java, Spring Boot, Javascript
-- **Database**: MySQL, MariaDB, JPA, MyBatis
-- **Tools**: Git, WebSocket
+- **Strong**: Java, Spring Framework, Javascript, MariaDB/MySQL
+- **Usable**: JPA, MyBatis, WebSocket, Linux(ubuntu), AWS
+- **ETC**: Git
+
 <!--
 ## 주요 프로젝트
 ### StudyShare (학습 공유 플랫폼)
