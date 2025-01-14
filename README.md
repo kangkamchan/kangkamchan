@@ -5,14 +5,16 @@
 - 어려운 과제에 도전하고 성장하는 것에 흥미를 느낍니다.
 >[포트폴리오](https://github.com/kangkamchan/Portfolio)
 
-## 연락처
- - 📧 topthanks@naver.com
- - 💻 [GitHub](https://github.com/Kangkamchan)
-   
 ## 기술 스택
 - **Strong**: Java, Spring Framework, Javascript, MariaDB/MySQL
 - **Usable**: JPA, MyBatis, WebSocket, Linux(ubuntu), AWS
 - **ETC**: Git
+
+## 연락처
+ - 📧 topthanks@naver.com
+ - 💻 [GitHub](https://github.com/Kangkamchan)
+   
+
 
 <!--
 ## 주요 프로젝트
